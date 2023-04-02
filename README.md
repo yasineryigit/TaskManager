@@ -1,4 +1,4 @@
-# Todo Application For Companies
+# Task Manager For Companies
 
 
 ## Installation
